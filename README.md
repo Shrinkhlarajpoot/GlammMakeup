@@ -37,5 +37,5 @@ Glam is an Ecommerce website based on Cosmetics and Skin-Care
 ![](/images/Homepage.png)
 ![](/images/products.png)
 ![](/images/wishlist.png)
-![](/images/logout.png)
+![](/images/signup.png)
  
