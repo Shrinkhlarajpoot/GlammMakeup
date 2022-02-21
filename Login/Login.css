@@ -52,7 +52,7 @@
    
 }
 .incorrect__pass{
-    color:var(--error-color);
+    color:var(--error--color);
     font-weight: bold;
     margin-right:17rem;
 }
