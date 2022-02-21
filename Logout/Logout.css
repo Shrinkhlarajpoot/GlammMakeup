@@ -1,0 +1,68 @@
+
+
+.logout__box{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width:28rem;
+    height:32rem;
+    background-color: var(--text2-color);
+    margin: auto;
+    margin-top:4rem;
+    border-radius:5px;
+    box-shadow:var(--box-shadow);
+}
+.fa-close{
+    position: absolute;
+    top:0.5rem;
+    right:1rem;
+}
+.logout__box h3{
+    font-size: 1.5rem;
+    text-align: center;
+    padding:2rem 0;
+   text-transform: uppercase;
+}
+
+
+.logout__img{
+    width:13rem;
+    height:12rem;
+    padding-top:2rem;
+}
+ .logout__box-sub{
+    padding:2rem;
+    color:var(--text--color);
+    cursor: pointer;
+    width:100%;
+}
+.logout__box-sub h4{
+    padding:0.7rem 0;
+    text-align: center;
+    
+}
+.sub__main{
+    width:100%;
+    text-align: center;
+    background-color: var(--primary-color);
+    color:var(--text-color);
+    font-weight: bold;
+    margin:1rem 0;
+    border-radius: 5px;
+}
+.logout__box-sub h4:hover{
+    color:var(--text-color);
+    background-color: var(--primary-color);
+    border-radius: 5px;
+    width:100%;
+}
+@media screen  and (max-width:475px){
+    .logout__box{
+        width:20rem;
+        
+    }
+    
+    
+}
