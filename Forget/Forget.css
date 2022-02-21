@@ -1,0 +1,35 @@
+.forget__box{
+    position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content:center;
+        width:25rem;
+        height:20rem;
+        background-color: var(--text2-color);
+        margin: auto;
+        margin-top:5rem;
+        border-radius:5px;
+        box-shadow: var(--box-shadow);
+}
+input{
+width:90%;
+padding: 0.6rem 0;
+border-radius:3px;
+margin:5px 0 1rem 8px ;
+border:1px solid var(--primary-color);
+color:var(--text-color)
+}
+@media screen and (max-width:430px) {
+    .forget__box{
+        width:20rem;
+    }
+}
+@media screen and (max-width:330px) {
+    .forget__box{
+        width:15rem;
+      
+    }
+    
+}
+
