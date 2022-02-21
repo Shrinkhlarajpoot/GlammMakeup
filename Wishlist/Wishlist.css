@@ -1,0 +1,28 @@
+.main{
+    margin-top: 5rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap:2rem 0rem;
+    
+}
+.wishlist__container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap:4rem 0;
+   
+}
+.card{
+    position: relative;
+}
+.card__hori2{
+   
+    box-shadow: var(--box-shadow);
+}
+.card__hori .fa-heart{
+    color:var(--error--color);
+}
+.btn__pri:hover{
+   background-color: var(--bg-color);
+}
