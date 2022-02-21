@@ -50,7 +50,7 @@
  
  }
  .cart__payment{
-    width:25rem;
+     width:25rem;
      height:fit-content;
      display: flex;
      flex-direction: column;
