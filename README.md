@@ -21,7 +21,7 @@ Glam is an Ecommerce website based on Cosmetics and Skin-Care
 * Contains all the items that are added for buying along with payment details.
 
  ### [Profile Page](https://glamm.netlify.app/profile/profile)
-* Contains all the items that are added for buying along with payment details.
+* Contains all the details of the user.
 
 ## Authentication
  ### [Login Page](https://glamm.netlify.app/login/login)
@@ -36,7 +36,7 @@ Glam is an Ecommerce website based on Cosmetics and Skin-Care
 * Contains a Signup box in which user need to Signup to Glam in order to Wishlist and buy Products.
 
  ### [ForgetPassword Page](https://glamm.netlify.app/forget/forget)
-* Contains a Signup box in which user need to Signup to Glam in order to Wishlist and buy Products.
+* Contains a email to send reset password link if user forgot the password.
 
 ## Screenshot of Screens of Glam.
 
