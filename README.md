@@ -33,4 +33,9 @@ Glam is an Ecommerce website based on Cosmetics and Skin-Care
 * Contains a Signup box in which user need to Signup to Glam in order to Wishlist and buy Products.
 
 ## Screenshot of Screens of Glam.
+
+![](/images/Homepage.png)
+![](/images/products.png)
+![](/images/wishlist.png)
+![](/images/logout.png)
  
